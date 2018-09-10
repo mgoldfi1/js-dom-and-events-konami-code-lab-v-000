@@ -9,7 +9,7 @@ function init() {
    index++;
    if (index === code.length) {
       alert("Hurray!");
- 
+
       index = 0;
     }
       } else {
